@@ -12,7 +12,7 @@
 #### Install all
 
 ```
-brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzipql qlimagesize webpquicklook suspicious-package
+brew cask install qlcolorcode animated-gif-quicklook qlmarkdown cert-quicklook epubquicklook quicklook-csv quicklook-json ttscoff-mmd-quicklook webpquicklook qlimagesize scriptql betterzipql invisorql qlplayground qlprettypatch qlrest qlstephen qlvideo
 ```
 
 ### Manually
